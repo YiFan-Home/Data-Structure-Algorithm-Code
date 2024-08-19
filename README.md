@@ -23,5 +23,5 @@ The basics and application implementation of data structures based on Python, as
     + ... ...
 
 # 数据结构进阶小程序项目实验
-+ 迷宫生成求解
++ [迷宫生成求解](https://github.com/YiFan-Home/Maze-Generation-and-Solving)
 + [多项式计算器](https://github.com/YiFan-Home/Polynomial-Calculator)（含加、减、乘、求导计算）
