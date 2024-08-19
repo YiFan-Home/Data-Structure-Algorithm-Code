@@ -1,7 +1,7 @@
 # Data-Structure-Algorithm-Code
-基于Python的数据结构基础与应用实现，数据结构课程实验内容都可以在这里找到。
+基于Python的数据结构基础与应用实现，数据结构课程实验内容都可以在这里找到。扩展进阶项目在最底部链接。
 
-The basics and application implementation of data structures based on Python, as well as the experimental content of data structure courses can be found here.
+The basics and application implementation of data structures based on Python, as well as the experimental content of data structure courses can be found here. Expand the advanced project link at the bottom.
 
 # 本项目内容
 应用实验中所使用的数据结构均采用自编写的基础结构类
